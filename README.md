@@ -1,0 +1,1 @@
+# depthai-device-manager
